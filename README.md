@@ -1,5 +1,5 @@
 - 👋 Heyo, I’m @PetrBlue!
-- 👀 I’m interested in Anime, BTD6, Clash Royale and coding ofc.
+- 👀 I’m interested in Anime, gaming and coding ofc.
 - 🌱 I’m currently learning js, c# and python.
 - 📫 How to reach me - Almost on all platforms my name is @petr._.blue :D
 
