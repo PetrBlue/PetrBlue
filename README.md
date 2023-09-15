@@ -41,6 +41,9 @@ Heyo, I'm **blue**, also known as **Peter Kejklíček**, and I'm a 16 years old 
 <a target="_blank" href="https://www.opera.com/gx">
 	<img title="Opera GX" alt="Opera GX" align="center" width="40px" src="https://img.icons8.com/color/256/opera-gx.png">
 </a>
+<a target="_blank" href="https://www.mozilla.org/">
+	<img title="Mozilla Firefox" alt="Mozilla Firefox" align="center" width="40px" src="https://img.icons8.com/color/256/mozilla-firefox.png">
+</a>
 
 ### Programming Languages:
 
