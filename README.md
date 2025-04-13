@@ -4,7 +4,7 @@
 
 ## 📄 About me:
 
-Heyo, I'm **blue**, and I'm a 17 years old developer and upcoming software engineer. I'm from Czech. In my free time I like coding, playing video games and watching videos on YouTube.
+Hey, I'm **blue**, and I'm a 18 years old developer. In my free time I like coding, playing video games and watching videos on YouTube.
 
 <!--### 🌎 Social Media:-->
 
@@ -23,13 +23,13 @@ Heyo, I'm **blue**, and I'm a 17 years old developer and upcoming software engin
 ### OS:
 
 <a target="_blank" href="https://microsoft.com/en-us/software-download/windows10">
-	<img title="Windows 10" alt="Windows 10" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg">
+	<img title="Arch Linux" alt="Arch Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/2048px-Arch_Linux_%22Crystal%22_icon.svg.png">
 </a>
 
 ### IDE:
 
-<a target="_blank" href="https://code.visualstudio.com">
-	<img title="Visual Studio Code" alt="Visual Studio Code" align="center" width="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png">
+<a target="_blank" href="https://vscodium.com/">
+	<img title="Visual Studio Codium" alt="Visual Studio Codium" align="center" width="40px" src="https://vscodium.com/img/codium_cnl.svg">
 </a>
 
 <a target="_blank" href="https://visualstudio.microsoft.com">
@@ -38,9 +38,6 @@ Heyo, I'm **blue**, and I'm a 17 years old developer and upcoming software engin
 
 ### Web Browser:
 
-<a target="_blank" href="https://www.opera.com/gx">
-	<img title="Opera GX" alt="Opera GX" align="center" width="40px" src="https://img.icons8.com/color/256/opera-gx.png">
-</a>
 <a target="_blank" href="https://www.mozilla.org/">
 	<img title="Mozilla Firefox" alt="Mozilla Firefox" align="center" width="40px" src="https://www.mozilla.org/media/img/structured-data/logo-firefox-browser.fbc7ffbb50fd.png">
 </a>
